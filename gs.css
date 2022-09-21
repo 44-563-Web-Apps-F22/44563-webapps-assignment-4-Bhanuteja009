@@ -87,3 +87,19 @@ tr:nth-child(odd) {
     background-color: #f3e1e1;
     background-color:darksalmon ;
 }
+
+a{
+    border: 5px;
+}
+.navbar-horizontal {
+    list-style-type: none;
+    background-color: beige;
+    padding: 40px;
+}
+
+li a,i{
+
+    float: left;
+    padding: 8px;
+    
+}
