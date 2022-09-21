@@ -53,3 +53,37 @@
     border: 2px dashed indigo;
 }
 
+table {
+    border: solid red 3px;
+    border-collapse: collapse;
+    width: 35%;
+    color: wheat;
+    text-align: center;
+    margin: 5%;
+    padding: 1%;
+}
+
+tr,th,td {
+    border: 1px solid;
+    margin: 1px 1px;
+    padding: 15px;
+}
+
+th {
+    font-size: medium;
+    font-weight: bold;
+}
+
+td{
+    font-size: medium;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f8f8;
+    background-color:darkgray ;
+}
+
+tr:nth-child(odd) {
+    background-color: #f3e1e1;
+    background-color:darksalmon ;
+}
