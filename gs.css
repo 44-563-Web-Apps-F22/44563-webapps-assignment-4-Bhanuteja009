@@ -79,18 +79,13 @@ td{
 }
 
 tr:nth-child(even) {
-    background-color: #f9f8f8;
     background-color:darkgray ;
 }
 
 tr:nth-child(odd) {
-    background-color: #f3e1e1;
     background-color:darksalmon ;
 }
 
-a{
-    border: 5px;
-}
 .navbar-horizontal {
     list-style-type: none;
     background-color: beige;
